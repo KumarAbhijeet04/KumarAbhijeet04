@@ -3,7 +3,7 @@
 <h1 align="center">Kumar Abhijeet</h1>
 
 <p align="center">
-  <em>Pursuing my bachelor’s degree in Computer Science and Engineering. I am a highly competent software professional with a proven track record in designing websites, networking, and open source contributor. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with new people. I am eager to be challenged in order to grow and further improve my software skills. My main goal is to demystify technology for everyone.</em>
+  <em>Pursuing my bachelor’s degree in Computer Science and Engineering. I am a software professional with a proven track record in designing websites, networking, and open source contributor. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with new people. I am eager to be challenged in order to grow and further improve my software skills. My main goal is to demystify technology for everyone.</em>
 </p>
 
 👨‍💻 All of my projects are available at [https://github.com/KumarAbhijeet04](https://github.com/KumarAbhijeet04)
