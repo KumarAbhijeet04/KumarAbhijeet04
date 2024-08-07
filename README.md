@@ -61,8 +61,8 @@
 <p align="center">
   <a href="https://github.com/KumarAbhijeet04" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/kumar-abhijeet12" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/KumarAbhijeet04" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://stackoverflow.com/users/19119239/kumar-abhijeet" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
+  <a href="https://x.com/kumarabhij81381" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://stackoverflow.com/users/26662995/kumar-abhijeet" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KumarAbhijeet04&show_icons=true&locale=en&layout=compact" alt="KumarAbhijeet04" /></p>
