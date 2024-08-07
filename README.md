@@ -47,9 +47,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/KumarAbhijeet04/Weather-App" target="_blank"><img src="https://img.shields.io/badge/Project%201-9cf?style=for-the-badge"></a>
-  <a href="https://github.com/KumarAbhijeet04/DiceGame" target="_blank"><img src="https://img.shields.io/badge/Project%202-9cf?style=for-the-badge"></a>
-  <a href="https://github.com/KumarAbhijeet04/ACM-StudentChapter" target="_blank"><img src="https://img.shields.io/badge/Project%203-9cf?style=for-the-badge"></a>
+  <a href="https://https://github.com/KumarAbhijeet04/Job-Portal" target="_blank"><img src="https://img.shields.io/badge/Project%201-9cf?style=for-the-badge"></a>
+  <a href="https://github.com/KumarAbhijeet04/E-commerce-web-on-mern" target="_blank"><img src="https://img.shields.io/badge/Project%202-9cf?style=for-the-badge"></a>
+  <a href="https://github.com/KumarAbhijeet04/Image-Editor-using-js" target="_blank"><img src="https://img.shields.io/badge/Project%203-9cf?style=for-the-badge"></a>
 </p>
 
 ## Contact Information
